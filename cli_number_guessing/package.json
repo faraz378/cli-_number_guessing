@@ -1,0 +1,19 @@
+{
+  "name": "cli_number_guessing_faraz_gul",
+  "version": "1.0.0",
+  "description": "This is cli bassed numbers guessing game",
+  "main": "tndex.js",
+  "type": "module",
+  "bin": "tndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}
